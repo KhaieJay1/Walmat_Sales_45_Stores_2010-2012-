@@ -238,3 +238,12 @@ Store 20 has the highest sales at $301.4M, while Store 33 has the lowest at $37.
 ## **Conclusion**
 
 This analysis of Walmart's sales from 2010 to 2012 provides key insights into seasonal trends, holiday impacts, external factor influences, and store performance. The findings suggest that strategic pricing, holiday promotions, and tailored marketing initiatives can significantly boost sales. By leveraging data-driven decision-making and optimizing store-specific strategies, Walmart can enhance overall profitability and adapt to market fluctuations effectively.
+
+
+### Links
+[GoogleSheets](https://docs.google.com/spreadsheets/d/1jl2yEBY5NVjPV1UoIVLrylGwZzRkc_g1TExDUuNjoXk/edit?usp=sharing),
+[Tableau](https://public.tableau.com/app/profile/kay.afu/viz/WALMARTSALESANALYSIS2010-2012/Main),
+[Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
+[Documentation]
+
+
