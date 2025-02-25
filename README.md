@@ -244,6 +244,5 @@ This analysis of Walmart's sales from 2010 to 2012 provides key insights into se
 [GoogleSheets](https://docs.google.com/spreadsheets/d/1jl2yEBY5NVjPV1UoIVLrylGwZzRkc_g1TExDUuNjoXk/edit?usp=sharing),
 [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/WALMARTSALESANALYSIS2010-2012/Main),
 [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
-[Documentation]
-
+[Project Documentation](https://docs.google.com/document/d/1EW9s0ZEfMmXHun3u580-SsCw_ilyodn4tm32apqIqdo/edit?tab=t.0#heading=h.ibhpweopaigj) 
 
